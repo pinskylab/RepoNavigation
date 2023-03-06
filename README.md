@@ -26,6 +26,7 @@ This is a collection of the most widely used and accessible repos on our GitHub
 Within these repos are numerous photos taken throughout the years
 <br>
   
+- ### [2016 Philippines Photos](https://github.com/pinskylab/2017PhilippinesPhotos) 
 - ### [2016 Philippines Photos](https://github.com/pinskylab/2016PhilippinesPhotos)
 - ### [2015 Philippines Photos](https://github.com/pinskylab/2015PhilippinesPhotos)
 - ### [2014 Philippines Photos](https://github.com/pinskylab/2014PhilippinesPhotos)
