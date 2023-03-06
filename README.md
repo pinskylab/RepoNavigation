@@ -14,7 +14,7 @@ This is a collection of the most widely used and accessible repos on our GitHub
 ## Current Projects
 
 
-## Archived Projects
+## Past Projects
 
 <details>
 <summary>
