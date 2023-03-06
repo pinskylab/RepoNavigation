@@ -32,7 +32,6 @@ The repos below make up the collection of projects previously worked on by our l
   </summary>
   
   Projects finished or no longer being actively developed as of 2020
-  
   <br>
   
   - #### [Coral Restoration](https://github.com/pinskylab/coral-restoration)
@@ -46,7 +45,6 @@ The repos below make up the collection of projects previously worked on by our l
   - #### [Fish and Fishing Synchonicity](https://github.com/pinskylab/cnhFishSynchrony)
   
   </details>
-
   <br>
   <details>
   <summary>
@@ -56,7 +54,6 @@ The repos below make up the collection of projects previously worked on by our l
   </summary>
   
   Projects finished or no longer being actively developed as of 2019
-  
   <br>
   
   - #### [Coral Adaptive Capacity](https://github.com/pinskylab/coral-adaptation)
@@ -78,7 +75,6 @@ The repos below make up the collection of projects previously worked on by our l
   - #### [Clownfish Geospatial Distribution](https://github.com/pinskylab/clownfish-movement)
   
   </details>
-
   <br>
   <details>
   <summary>
