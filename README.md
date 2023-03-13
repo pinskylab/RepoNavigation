@@ -109,6 +109,9 @@ The repos below make up the collection of projects previously worked on by our l
   </details>
 </details>
 
+## [BCO-DMO](https://github.com/pinskylab/BCO-DMO)
+Associated dataset and link(s) to the lab's BCO-DMO information can be found here.
+
 <details>
 <summary>
 
